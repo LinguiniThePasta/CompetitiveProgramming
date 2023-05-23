@@ -238,6 +238,39 @@ build Round107C.exe: CXX_EXECUTABLE_LINKER__Round107C_Debug CMakeFiles/Round107C
   TARGET_IMPLIB = libRound107C.dll.a
   TARGET_PDB = Round107C.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Round67CBeta
+
+
+#############################################
+# Order-only phony target for Round67CBeta
+
+build cmake_object_order_depends_target_Round67CBeta: phony || CMakeFiles/Round67CBeta.dir
+
+build CMakeFiles/Round67CBeta.dir/Codeforces/Round67CBeta.cpp.obj: CXX_COMPILER__Round67CBeta_Debug C$:/Users/golde/CLionProjects/CompetitiveProgramming/Codeforces/Round67CBeta.cpp || cmake_object_order_depends_target_Round67CBeta
+  DEP_FILE = CMakeFiles\Round67CBeta.dir\Codeforces\Round67CBeta.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Round67CBeta.dir
+  OBJECT_FILE_DIR = CMakeFiles\Round67CBeta.dir\Codeforces
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Round67CBeta
+
+
+#############################################
+# Link the executable Round67CBeta.exe
+
+build Round67CBeta.exe: CXX_EXECUTABLE_LINKER__Round67CBeta_Debug CMakeFiles/Round67CBeta.dir/Codeforces/Round67CBeta.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Round67CBeta.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Round67CBeta.exe
+  TARGET_IMPLIB = libRound67CBeta.dll.a
+  TARGET_PDB = Round67CBeta.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -276,6 +309,8 @@ build Round326B: phony Round326B.exe
 
 build Round345C: phony Round345C.exe
 
+build Round67CBeta: phony Round67CBeta.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -284,7 +319,7 @@ build Round345C: phony Round345C.exe
 #############################################
 # Folder: C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug
 
-build all: phony Round304C.exe Round345C.exe Round218B.exe Round326B.exe 10394TwinPrimes.exe Round107C.exe
+build all: phony Round304C.exe Round345C.exe Round218B.exe Round326B.exe 10394TwinPrimes.exe Round107C.exe Round67CBeta.exe
 
 # =============================================================================
 # Built-in targets
