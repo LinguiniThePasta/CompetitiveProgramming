@@ -5,5 +5,10 @@ C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles
 C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/10394TwinPrimes.dir
 C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round107C.dir
 C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round67CBeta.dir
+C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round321B.dir
+C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round219A.dir
+C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/ride.dir
+C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/gift1.dir
+C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/friday.dir
 C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir

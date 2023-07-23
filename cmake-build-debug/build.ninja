@@ -271,6 +271,171 @@ build Round67CBeta.exe: CXX_EXECUTABLE_LINKER__Round67CBeta_Debug CMakeFiles/Rou
   TARGET_IMPLIB = libRound67CBeta.dll.a
   TARGET_PDB = Round67CBeta.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Round321B
+
+
+#############################################
+# Order-only phony target for Round321B
+
+build cmake_object_order_depends_target_Round321B: phony || CMakeFiles/Round321B.dir
+
+build CMakeFiles/Round321B.dir/Codeforces/Round321B.cpp.obj: CXX_COMPILER__Round321B_Debug C$:/Users/golde/CLionProjects/CompetitiveProgramming/Codeforces/Round321B.cpp || cmake_object_order_depends_target_Round321B
+  DEP_FILE = CMakeFiles\Round321B.dir\Codeforces\Round321B.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Round321B.dir
+  OBJECT_FILE_DIR = CMakeFiles\Round321B.dir\Codeforces
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Round321B
+
+
+#############################################
+# Link the executable Round321B.exe
+
+build Round321B.exe: CXX_EXECUTABLE_LINKER__Round321B_Debug CMakeFiles/Round321B.dir/Codeforces/Round321B.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Round321B.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Round321B.exe
+  TARGET_IMPLIB = libRound321B.dll.a
+  TARGET_PDB = Round321B.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Round219A
+
+
+#############################################
+# Order-only phony target for Round219A
+
+build cmake_object_order_depends_target_Round219A: phony || CMakeFiles/Round219A.dir
+
+build CMakeFiles/Round219A.dir/Codeforces/Round219A.cpp.obj: CXX_COMPILER__Round219A_Debug C$:/Users/golde/CLionProjects/CompetitiveProgramming/Codeforces/Round219A.cpp || cmake_object_order_depends_target_Round219A
+  DEP_FILE = CMakeFiles\Round219A.dir\Codeforces\Round219A.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Round219A.dir
+  OBJECT_FILE_DIR = CMakeFiles\Round219A.dir\Codeforces
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Round219A
+
+
+#############################################
+# Link the executable Round219A.exe
+
+build Round219A.exe: CXX_EXECUTABLE_LINKER__Round219A_Debug CMakeFiles/Round219A.dir/Codeforces/Round219A.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Round219A.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Round219A.exe
+  TARGET_IMPLIB = libRound219A.dll.a
+  TARGET_PDB = Round219A.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ride
+
+
+#############################################
+# Order-only phony target for ride
+
+build cmake_object_order_depends_target_ride: phony || CMakeFiles/ride.dir
+
+build CMakeFiles/ride.dir/USACO/ride.cpp.obj: CXX_COMPILER__ride_Debug C$:/Users/golde/CLionProjects/CompetitiveProgramming/USACO/ride.cpp || cmake_object_order_depends_target_ride
+  DEP_FILE = CMakeFiles\ride.dir\USACO\ride.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ride.dir
+  OBJECT_FILE_DIR = CMakeFiles\ride.dir\USACO
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ride
+
+
+#############################################
+# Link the executable ride.exe
+
+build ride.exe: CXX_EXECUTABLE_LINKER__ride_Debug CMakeFiles/ride.dir/USACO/ride.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ride.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ride.exe
+  TARGET_IMPLIB = libride.dll.a
+  TARGET_PDB = ride.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target gift1
+
+
+#############################################
+# Order-only phony target for gift1
+
+build cmake_object_order_depends_target_gift1: phony || CMakeFiles/gift1.dir
+
+build CMakeFiles/gift1.dir/USACO/gift1.cpp.obj: CXX_COMPILER__gift1_Debug C$:/Users/golde/CLionProjects/CompetitiveProgramming/USACO/gift1.cpp || cmake_object_order_depends_target_gift1
+  DEP_FILE = CMakeFiles\gift1.dir\USACO\gift1.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\gift1.dir
+  OBJECT_FILE_DIR = CMakeFiles\gift1.dir\USACO
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target gift1
+
+
+#############################################
+# Link the executable gift1.exe
+
+build gift1.exe: CXX_EXECUTABLE_LINKER__gift1_Debug CMakeFiles/gift1.dir/USACO/gift1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\gift1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = gift1.exe
+  TARGET_IMPLIB = libgift1.dll.a
+  TARGET_PDB = gift1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target friday
+
+
+#############################################
+# Order-only phony target for friday
+
+build cmake_object_order_depends_target_friday: phony || CMakeFiles/friday.dir
+
+build CMakeFiles/friday.dir/USACO/friday.cpp.obj: CXX_COMPILER__friday_Debug C$:/Users/golde/CLionProjects/CompetitiveProgramming/USACO/friday.cpp || cmake_object_order_depends_target_friday
+  DEP_FILE = CMakeFiles\friday.dir\USACO\friday.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\friday.dir
+  OBJECT_FILE_DIR = CMakeFiles\friday.dir\USACO
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target friday
+
+
+#############################################
+# Link the executable friday.exe
+
+build friday.exe: CXX_EXECUTABLE_LINKER__friday_Debug CMakeFiles/friday.dir/USACO/friday.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\friday.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = friday.exe
+  TARGET_IMPLIB = libfriday.dll.a
+  TARGET_PDB = friday.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -303,13 +468,23 @@ build Round107C: phony Round107C.exe
 
 build Round218B: phony Round218B.exe
 
+build Round219A: phony Round219A.exe
+
 build Round304C: phony Round304C.exe
+
+build Round321B: phony Round321B.exe
 
 build Round326B: phony Round326B.exe
 
 build Round345C: phony Round345C.exe
 
 build Round67CBeta: phony Round67CBeta.exe
+
+build friday: phony friday.exe
+
+build gift1: phony gift1.exe
+
+build ride: phony ride.exe
 
 # =============================================================================
 # Folder targets.
@@ -319,7 +494,7 @@ build Round67CBeta: phony Round67CBeta.exe
 #############################################
 # Folder: C:/Users/golde/CLionProjects/CompetitiveProgramming/cmake-build-debug
 
-build all: phony Round304C.exe Round345C.exe Round218B.exe Round326B.exe 10394TwinPrimes.exe Round107C.exe Round67CBeta.exe
+build all: phony Round304C.exe Round345C.exe Round218B.exe Round326B.exe 10394TwinPrimes.exe Round107C.exe Round67CBeta.exe Round321B.exe Round219A.exe ride.exe gift1.exe friday.exe
 
 # =============================================================================
 # Built-in targets
