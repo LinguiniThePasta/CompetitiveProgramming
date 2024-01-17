@@ -11,5 +11,13 @@ C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/ri
 C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/gift1.dir
 C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/friday.dir
 C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round363A.dir
+C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round723B.dir
+C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round627D.dir
+C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round638B.dir
+C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round287B.dir
+C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round651C.dir
+C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round574C.dir
+C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round648C.dir
+C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round653D.dir
 C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
