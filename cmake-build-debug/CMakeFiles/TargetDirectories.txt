@@ -19,5 +19,7 @@ C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Ro
 C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round574C.dir
 C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round648C.dir
 C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round653D.dir
+C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round577C.dir
+C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/Round240B.dir
 C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/LinguiniThePasta/CompetitiveProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
