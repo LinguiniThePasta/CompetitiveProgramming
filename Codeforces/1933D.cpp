@@ -1,7 +1,6 @@
-#include <cstdio>
+#include <stdio.h>
 #include <algorithm>
 #include <iostream>
-#include <iomanip>
 #include <vector>
 #include <cstring>
 #include <queue>
@@ -11,31 +10,34 @@
 
 using namespace std;
 #define ll long long
-
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
+
     ll t;
     cin >> t;
     while (t--) {
         ll n;
         cin >> n;
-        pair<ll, ll> a[n];
-        pair<ll, ll> b[n];
+        ll a[n];
         for (int i = 0; i < n; i++) {
-            cin >> a[i].first;
-        }
-        for (int i = 0; i < n; i++) {
-            cin >> a[i].second;
+            cin >> a[i];
         }
         sort(a, a+n);
-        for (int i = 0; i < n; i++) {
-            cout << a[i].first << " ";
+        if (a[0] != a[1]) {
+            cout << "YES\n";
+            continue;
         }
-        cout << "\n";
-        for (int i = 0; i < n; i++) {
-            cout << a[i].second << " ";
+        int c = 0;
+        for (ll i = 1; i < n; i++) {
+            if (a[i] % a[0] != 0) {
+                c = 1;
+            }
         }
-        cout << "\n";
+        if (c) {
+            cout << "YES\n";
+            continue;
+        }
+        cout << "NO\n";
     }
 }
